@@ -1,0 +1,15 @@
+plan : 
+- define a Stemmisation function in your dataset class : ---------------------------------------------------- done
+- define a lemmatisation step in your data set : ------------------------------------------------------------ done
+    - write the function ------------------------------------------------------------------------------------ done
+    - save the computed dataset, do not compte it everytime.------------------------------------------------- done
+- define a stop words step in your data set class: ---------------------------------------------------------- done
+- define a pos tag function --------------------------------------------------------------------------------- under progress
+	= define a function that takes the train dataset ---------------------------------------------------- done	
+	= create all the columns for each category, and assign all the labels
+	= for each row, generate the pos_ counter dict
+	= for each key in dict assign the value 
+	= add also the length 
+	= save it ------------------------------------------------------------------------------------------- waiting
+- define a testing platform --------------------------------------------------------------------------------- waiting
+- 
